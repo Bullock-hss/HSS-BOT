@@ -1,0 +1,11 @@
+# Config files
+config.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
